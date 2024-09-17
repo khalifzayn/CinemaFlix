@@ -1,4 +1,4 @@
-package com.fszdev.cinemaflix.ui.theme
+package com.fszdev.splash_screen.ui.theme
 
 import android.app.Activity
 import android.os.Build

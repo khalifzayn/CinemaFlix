@@ -1,4 +1,4 @@
-package com.fszdev.cinemaflix.ui.theme
+package com.fszdev.splash_screen.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
