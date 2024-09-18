@@ -18,8 +18,7 @@ import com.fszdev.splash_screen.R
 internal fun SplashSection(modifier: Modifier = Modifier) {
     Box(
         modifier = modifier
-            .fillMaxSize()
-            .background(color = Color(0xFF01193C)),
+            .fillMaxSize(),
         contentAlignment = Alignment.Center
     ){
         Image(
