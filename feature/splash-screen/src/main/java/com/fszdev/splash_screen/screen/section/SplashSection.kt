@@ -22,7 +22,7 @@ internal fun SplashSection(modifier: Modifier = Modifier) {
         contentAlignment = Alignment.Center
     ){
         Image(
-            painter = painterResource(id = R.drawable.icon_splash_screen ),
+            painter = painterResource(id = R.drawable.img_splash_screen ),
             contentDescription = "splash screen logo",
         )
     }
